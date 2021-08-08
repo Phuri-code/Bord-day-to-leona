@@ -46,4 +46,4 @@ function National_institutes_of_Healthy(weigth, height){
         console.log("your weight is",BMI,"It's mean you are obesity");
     }
   }
- National_institutes_of_Healthy(51, 1.67);
+ National_institutes_of_Healthy(51, 1.69);
